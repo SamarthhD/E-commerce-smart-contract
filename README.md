@@ -1,3 +1,5 @@
+<h1>E-commerce smart contract</h1>
+<h2>Author : Samarth Deshpande</h2>
 The contract contains 4 major functions:
 💡 Register product : For the seller to register the product ,it's name and price.
 💡 Buy product : For the buyer to buy the product by paying a specific amount of ether to the contract.
