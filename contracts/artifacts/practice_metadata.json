@@ -1,0 +1,66 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "Ether_balance",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "payEther",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/assign2.sol": "practice"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/assign2.sol": {
+			"keccak256": "0xdaa6574a08159c635b3ae51efe933d3cd752fa91c2e943dd65b20f6f52761f1f",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://c22cc67b9fb8226e25b68d70d1f441061ada83d76dbb1c75f2085d2a072484ec",
+				"dweb:/ipfs/QmQ8iQngY9p9Gfj2LQqN5ssPe1TsX2y3zLqMZeWN5MK8gD"
+			]
+		}
+	},
+	"version": 1
+}
